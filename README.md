@@ -13,8 +13,7 @@ SkyFireEMU is a MMORPG Framework based mostly on C++. It is completely
 open-source, and is community supported. It is derived
 from CactusEmu, TrinityCore, and MaNGOS, the Massive Network Game Object Servers, 
 and is based on the code of there projects with extensive changes over time to optimize, 
-improve and cleanup the code base at the same time as improving the in game mechanics
-and functionality.
+
 
 It is completely open source; community involvement is highly encouraged.
 
