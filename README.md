@@ -16,7 +16,7 @@ and is based on the code of there projects with extensive changes over time to o
 
 It is completely open source; community involvement is highly encouraged.
 
-If you wish to contribute ideas or code please visit our site linked below or
+If you wish to contribute ideas or code please visit our site linked
 make pull requests to our 
 [Github repository](https://github.com/ProjectSkyfire/SkyFire.548).
 2023/08131111
